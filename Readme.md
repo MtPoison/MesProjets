@@ -2,7 +2,7 @@
 
 Voici quelques projets sur lesquels j'ai travaillé :
 
-## 🎮 Jeu Unity RL like
+## Jeu Unity RL like
 Repo : [https://github.com/MtPoison/UnityRL](https://github.com/MtPoison/UnityRL)
 
 # Contributions
@@ -27,7 +27,10 @@ Pour ce projet, mes contributions sont :
 - **Interface Utilisateur (UI)**  
   Conception et intégration de ma première interface utilisateur dans un jeu, permettant une meilleure expérience pour le joueur.
 
-## 🌐 Jeux Vertical Slice
+# Itch
+[jeu](https://p0izon.itch.io/fou2foot)
+
+## Jeux Vertical Slice
 Repo : [https://github.com/DemonXlegenD/Helluva-Revenge](https://github.com/DemonXlegenD/Helluva-Revenge)
 
 # Contributions
@@ -64,7 +67,7 @@ Repo : [https://github.com/FrancoisCantineau/RacingUnreal](https://github.com/Fr
   Développement d’un système de gestion de carte qui s’adapte au tracé du circuit et à la progression du joueur.
 
 ## Jeux D'Enigme mobile
-Repo : [https://github.com/FrancoisCantineau/RacingUnreal](https://github.com/FrancoisCantineau/RacingUnreal)
+Repo : [https://github.com/MtPoison/DepthsOfHue](https://github.com/MtPoison/DepthsOfHue)
 
 
 ## Mes Contributions
@@ -96,6 +99,8 @@ Repo : [https://github.com/FrancoisCantineau/RacingUnreal](https://github.com/Fr
   Tous les paramètres du jeu ont été rendus responsives, assurant une compatibilité parfaite avec différentes résolutions d’écran.  
   Intégration de tous les assets nécessaires dans le menu des paramètres.
 
+# Itch
+[jeu](https://arthur-bru.itch.io/depths-of-hue)
 
 ## Shader Unity
 
@@ -118,6 +123,9 @@ Repo : [https://github.com/MtPoison/shader](https://github.com/MtPoison/shader)
 
 - **Shader de brouillard (expérimentation)**  
   En bonus, expérimentation avec un shader de brouillard, ajoutant une couche supplémentaire à l'atmosphère du projet.
+
+# Itch
+[jeu](https://p0izon.itch.io/shader-of-world)
 
 
 ## Fête Foraine Unreal Bp
@@ -142,6 +150,9 @@ Repo : [https://github.com/MtPoison/FeteForaineUnreal](https://github.com/MtPois
 - **Système d'IA de monstre**  
   Un monstre rôde dans l'environnement et, si le joueur s'en approche trop, il commence à le poursuivre et à l'attaquer, ajoutant un élément de suspense et de danger.
 
+# Itch
+[jeu](https://p0izon.itch.io/fete-foraine)
+
 
 ## Utilisation UI Unity
 
@@ -165,5 +176,28 @@ Repo : [https://github.com/MtPoison/CuisineUI](https://github.com/MtPoison/Cuisi
 - **Inventaire magique**  
   Création d'un inventaire magique qui, lorsqu'il est ouvert, génère aléatoirement des étagères et des objets, ajoutant une touche de surprise et de mystère à l'expérience de jeu.
 
+# Itch
+[jeu](https://p0izon.itch.io/uitest)
 
-  
+
+
+## Game Jam 
+
+Repo : [https://github.com/PoloBongo/Meta_GTech](https://github.com/PoloBongo/Meta_GTech)
+
+
+## Mes Contributions
+
+- **Système de musique et d'éclairage**  
+  Développement d'un système dynamique permettant de synchroniser des paysages sonores inquiétants avec un éclairage réactif, renforçant ainsi la tension et l'atmosphère du jeu.
+
+- **Effets de post-traitement caméra**  
+  Implémentation d'effets avancés de post-traitement, tels que le grain, le color grading et la distorsion, pour accentuer l'esthétique de l'horreur et immerger davantage le joueur dans l'ambiance.
+
+- **Améliorations immersives**  
+  En plus des éléments précédents, j'ai expérimenté avec des effets environnementaux comme le brouillard et des animations d'ombres, créant ainsi un environnement encore plus perturbant et engageant.
+
+# Itch
+[jeu](https://46yuu.itch.io/staysoul)
+
+
